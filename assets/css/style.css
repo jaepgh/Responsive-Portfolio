@@ -206,10 +206,10 @@ h2{
         margin-left: 50px;
     }
     header{
-        width: 30%;
+        width: 35%;
     }
     nav{
-        width: 70%;
+        width: 65%;
     }
     section{
         width: auto;
@@ -218,6 +218,18 @@ h2{
     article{
         width: 50%;
         margin-left: 0;
+    }
+    table{
+        width: auto;
+    }
+    th{
+        width: 50%;
+    }
+    #imgBkg{
+        width: 100%;
+    }
+    #blankCell{
+        display: none;
     }
   }
 /*
@@ -230,10 +242,10 @@ h2{
         margin-left: 15px;
     }
     header{
-        width: 35%;
+        width: 40%;
     }
     nav{
-        width: 65%;
+        width: 60%;
     }
     section{
         width: auto;
@@ -273,6 +285,10 @@ h2{
     #logoImage{
         float: none;
         width: 100%;
+    }
+    th{
+        width: 100%;
+        display: inline-block;
     }
     /*Centering nav bar*/
     ul{
